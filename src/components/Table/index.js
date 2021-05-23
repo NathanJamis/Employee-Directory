@@ -2,7 +2,7 @@ import React from "react";
 
 function Table(props) {
     return (
-        <table class="table">
+        <table class="table text-center">
             <thead>
                 <tr>
                     <th scope="col" onClick={props.sortFirstName}>First Name</th>
