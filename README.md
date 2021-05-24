@@ -8,7 +8,7 @@ A React-based website using the [Random User API](https://randomuser.me/) that w
 
 ## Deployed Application
 
-----LINK----
+https://nathanjamis.github.io/Employee-Directory/
 
 ## Installation
 
@@ -16,7 +16,7 @@ In the console, run ```npm i``` to install necessary dependencies
 
 ## Screenshot
 
-![Screenshot](assets\screenshot.png)
+![Screenshot](./assets/screenshot.png)
  
 ## License
 
